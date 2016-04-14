@@ -10,9 +10,9 @@ body {
 }
 
 .logo {
-    border-radius: 8%; /* rounds the corners of the square image so it displays as a circle */
+    border-radius: 90%; /* rounds the corners of the square image so it displays as a circle */
     text-align: center;
-
+    resize: 
 }
 
 
